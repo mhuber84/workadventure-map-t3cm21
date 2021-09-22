@@ -62,6 +62,21 @@ WA.room.onEnterZone('slack', () => {
 })
 WA.room.onLeaveZone('slack', closePopUp)
 
+WA.room.onEnterZone('info', () => {
+    currentPopup = WA.openPopup(
+        'infoPopup',
+        'Etherpad with links to Jitsi rooms and other usefull stuff.',
+        [
+          {
+              label: 'Show',
+              className: 'primary',
+              callback: () => WA.nav.openTab('https://ffmuc.net/pad/p/t3cm2021-info'),
+          }
+      ]
+    )
+})
+WA.room.onLeaveZone('info', closePopUp)
+
 
 function closePopUp(){
     if (currentPopup !== undefined) {
