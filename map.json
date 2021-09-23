@@ -741,9 +741,24 @@
  "orientation":"orthogonal",
  "properties":[
         {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"Credits: TYPO3 User Group M\u00fcnchen e.V. https:\/\/www.typo3camp-muenchen.de \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Barcamp location for the TYPO3camp M\u00fcnchen 2021 based on https:\/\/github.com\/thecodingmachine\/workadventure-map-starter-kit and https:\/\/github.com\/ValdoTR\/big-workshop"
+        }, 
+        {
          "name":"mapImage",
          "type":"string",
          "value":"map.png"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/mhuber84.github.io\/workadventure-map-t3cm21-test\/"
         }, 
         {
          "name":"mapName",
