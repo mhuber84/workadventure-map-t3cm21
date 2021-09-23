@@ -80,6 +80,11 @@
                  "value":"{ \"startWithAudioMuted\": true }"
                 }, 
                 {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{ \"TOOLBAR_BUTTONS\": [ \"microphone\", \"camera\", \"closedcaptions\", \"desktop\", \"fullscreen\", \"fodeviceselection\", \"hangup\", \"profile\", \"chat\", \"settings\", \"raisehand\", \"videoquality\", \"filmstrip\", \"feedback\", \"stats\", \"shortcuts\", \"tileview\", \"videobackgroundblur\", \"download\", \"help\", \"mute-everyone\", \"e2ee\", \"security\" ] }"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsiT3cmRoomPlenum"
@@ -106,6 +111,11 @@
                  "name":"jitsiConfig",
                  "type":"string",
                  "value":"{ \"startWithAudioMuted\": true }"
+                }, 
+                {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{ \"TOOLBAR_BUTTONS\": [ \"microphone\", \"camera\", \"closedcaptions\", \"desktop\", \"fullscreen\", \"fodeviceselection\", \"hangup\", \"profile\", \"chat\", \"settings\", \"raisehand\", \"videoquality\", \"filmstrip\", \"feedback\", \"stats\", \"shortcuts\", \"tileview\", \"videobackgroundblur\", \"download\", \"help\", \"mute-everyone\", \"e2ee\", \"security\" ] }"
                 }, 
                 {
                  "name":"jitsiRoom",
@@ -136,6 +146,11 @@
                  "value":"{ \"startWithAudioMuted\": true }"
                 }, 
                 {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{ \"TOOLBAR_BUTTONS\": [ \"microphone\", \"camera\", \"closedcaptions\", \"desktop\", \"fullscreen\", \"fodeviceselection\", \"hangup\", \"profile\", \"chat\", \"settings\", \"raisehand\", \"videoquality\", \"filmstrip\", \"feedback\", \"stats\", \"shortcuts\", \"tileview\", \"videobackgroundblur\", \"download\", \"help\", \"mute-everyone\", \"e2ee\", \"security\" ] }"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsiT3cmRoom2"
@@ -162,6 +177,11 @@
                  "name":"jitsiConfig",
                  "type":"string",
                  "value":"{ \"startWithAudioMuted\": true }"
+                }, 
+                {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{ \"TOOLBAR_BUTTONS\": [ \"microphone\", \"camera\", \"closedcaptions\", \"desktop\", \"fullscreen\", \"fodeviceselection\", \"hangup\", \"profile\", \"chat\", \"settings\", \"raisehand\", \"videoquality\", \"filmstrip\", \"feedback\", \"stats\", \"shortcuts\", \"tileview\", \"videobackgroundblur\", \"download\", \"help\", \"mute-everyone\", \"e2ee\", \"security\" ] }"
                 }, 
                 {
                  "name":"jitsiRoom",
@@ -192,6 +212,11 @@
                  "value":"{ \"startWithAudioMuted\": true }"
                 }, 
                 {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{ \"TOOLBAR_BUTTONS\": [ \"microphone\", \"camera\", \"closedcaptions\", \"desktop\", \"fullscreen\", \"fodeviceselection\", \"hangup\", \"profile\", \"chat\", \"settings\", \"raisehand\", \"videoquality\", \"filmstrip\", \"feedback\", \"stats\", \"shortcuts\", \"tileview\", \"videobackgroundblur\", \"download\", \"help\", \"mute-everyone\", \"e2ee\", \"security\" ] }"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsiT3cmRoomKueche"
@@ -218,6 +243,11 @@
                  "name":"jitsiConfig",
                  "type":"string",
                  "value":"{ \"startWithAudioMuted\": true }"
+                }, 
+                {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{ \"TOOLBAR_BUTTONS\": [ \"microphone\", \"camera\", \"closedcaptions\", \"desktop\", \"fullscreen\", \"fodeviceselection\", \"hangup\", \"profile\", \"chat\", \"settings\", \"raisehand\", \"videoquality\", \"filmstrip\", \"feedback\", \"stats\", \"shortcuts\", \"tileview\", \"videobackgroundblur\", \"download\", \"help\", \"mute-everyone\", \"e2ee\", \"security\" ] }"
                 }, 
                 {
                  "name":"jitsiRoom",
