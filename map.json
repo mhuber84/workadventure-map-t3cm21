@@ -82,7 +82,7 @@
                 {
                  "name":"jitsiInterfaceConfig",
                  "type":"string",
-                 "value":"{ \"TOOLBAR_BUTTONS\": [ \"microphone\", \"camera\", \"closedcaptions\", \"desktop\", \"fullscreen\", \"fodeviceselection\", \"hangup\", \"profile\", \"chat\", \"settings\", \"raisehand\", \"videoquality\", \"filmstrip\", \"feedback\", \"stats\", \"shortcuts\", \"tileview\", \"videobackgroundblur\", \"download\", \"help\", \"mute-everyone\", \"e2ee\", \"security\" ] }"
+                 "value":"{ \"TOOLBAR_BUTTONS\": [ \"microphone\", \"camera\", \"closedcaptions\", \"desktop\", \"fullscreen\", \"fodeviceselection\", \"hangup\", \"profile\", \"chat\", \"settings\", \"raisehand\", \"videoquality\", \"filmstrip\", \"feedback\", \"stats\", \"shortcuts\", \"tileview\", \"videobackgroundblur\", \"download\", \"help\", \"mute-everyone\", \"mute-video-everyone\", \"participants-pane\", \"e2ee\", \"security\" ] }"
                 }, 
                 {
                  "name":"jitsiRoom",
@@ -115,7 +115,7 @@
                 {
                  "name":"jitsiInterfaceConfig",
                  "type":"string",
-                 "value":"{ \"TOOLBAR_BUTTONS\": [ \"microphone\", \"camera\", \"closedcaptions\", \"desktop\", \"fullscreen\", \"fodeviceselection\", \"hangup\", \"profile\", \"chat\", \"settings\", \"raisehand\", \"videoquality\", \"filmstrip\", \"feedback\", \"stats\", \"shortcuts\", \"tileview\", \"videobackgroundblur\", \"download\", \"help\", \"mute-everyone\", \"e2ee\", \"security\" ] }"
+                 "value":"{ \"TOOLBAR_BUTTONS\": [ \"microphone\", \"camera\", \"closedcaptions\", \"desktop\", \"fullscreen\", \"fodeviceselection\", \"hangup\", \"profile\", \"chat\", \"settings\", \"raisehand\", \"videoquality\", \"filmstrip\", \"feedback\", \"stats\", \"shortcuts\", \"tileview\", \"videobackgroundblur\", \"download\", \"help\", \"mute-everyone\", \"mute-video-everyone\", \"participants-pane\", \"e2ee\", \"security\" ] }"
                 }, 
                 {
                  "name":"jitsiRoom",
@@ -148,7 +148,7 @@
                 {
                  "name":"jitsiInterfaceConfig",
                  "type":"string",
-                 "value":"{ \"TOOLBAR_BUTTONS\": [ \"microphone\", \"camera\", \"closedcaptions\", \"desktop\", \"fullscreen\", \"fodeviceselection\", \"hangup\", \"profile\", \"chat\", \"settings\", \"raisehand\", \"videoquality\", \"filmstrip\", \"feedback\", \"stats\", \"shortcuts\", \"tileview\", \"videobackgroundblur\", \"download\", \"help\", \"mute-everyone\", \"e2ee\", \"security\" ] }"
+                 "value":"{ \"TOOLBAR_BUTTONS\": [ \"microphone\", \"camera\", \"closedcaptions\", \"desktop\", \"fullscreen\", \"fodeviceselection\", \"hangup\", \"profile\", \"chat\", \"settings\", \"raisehand\", \"videoquality\", \"filmstrip\", \"feedback\", \"stats\", \"shortcuts\", \"tileview\", \"videobackgroundblur\", \"download\", \"help\", \"mute-everyone\", \"mute-video-everyone\", \"participants-pane\", \"e2ee\", \"security\" ] }"
                 }, 
                 {
                  "name":"jitsiRoom",
@@ -181,7 +181,7 @@
                 {
                  "name":"jitsiInterfaceConfig",
                  "type":"string",
-                 "value":"{ \"TOOLBAR_BUTTONS\": [ \"microphone\", \"camera\", \"closedcaptions\", \"desktop\", \"fullscreen\", \"fodeviceselection\", \"hangup\", \"profile\", \"chat\", \"settings\", \"raisehand\", \"videoquality\", \"filmstrip\", \"feedback\", \"stats\", \"shortcuts\", \"tileview\", \"videobackgroundblur\", \"download\", \"help\", \"mute-everyone\", \"e2ee\", \"security\" ] }"
+                 "value":"{ \"TOOLBAR_BUTTONS\": [ \"microphone\", \"camera\", \"closedcaptions\", \"desktop\", \"fullscreen\", \"fodeviceselection\", \"hangup\", \"profile\", \"chat\", \"settings\", \"raisehand\", \"videoquality\", \"filmstrip\", \"feedback\", \"stats\", \"shortcuts\", \"tileview\", \"videobackgroundblur\", \"download\", \"help\", \"mute-everyone\", \"mute-video-everyone\", \"participants-pane\", \"e2ee\", \"security\" ] }"
                 }, 
                 {
                  "name":"jitsiRoom",
@@ -214,7 +214,7 @@
                 {
                  "name":"jitsiInterfaceConfig",
                  "type":"string",
-                 "value":"{ \"TOOLBAR_BUTTONS\": [ \"microphone\", \"camera\", \"closedcaptions\", \"desktop\", \"fullscreen\", \"fodeviceselection\", \"hangup\", \"profile\", \"chat\", \"settings\", \"raisehand\", \"videoquality\", \"filmstrip\", \"feedback\", \"stats\", \"shortcuts\", \"tileview\", \"videobackgroundblur\", \"download\", \"help\", \"mute-everyone\", \"e2ee\", \"security\" ] }"
+                 "value":"{ \"TOOLBAR_BUTTONS\": [ \"microphone\", \"camera\", \"closedcaptions\", \"desktop\", \"fullscreen\", \"fodeviceselection\", \"hangup\", \"profile\", \"chat\", \"settings\", \"raisehand\", \"videoquality\", \"filmstrip\", \"feedback\", \"stats\", \"shortcuts\", \"tileview\", \"videobackgroundblur\", \"download\", \"help\", \"mute-everyone\", \"mute-video-everyone\", \"participants-pane\", \"e2ee\", \"security\" ] }"
                 }, 
                 {
                  "name":"jitsiRoom",
@@ -247,7 +247,7 @@
                 {
                  "name":"jitsiInterfaceConfig",
                  "type":"string",
-                 "value":"{ \"TOOLBAR_BUTTONS\": [ \"microphone\", \"camera\", \"closedcaptions\", \"desktop\", \"fullscreen\", \"fodeviceselection\", \"hangup\", \"profile\", \"chat\", \"settings\", \"raisehand\", \"videoquality\", \"filmstrip\", \"feedback\", \"stats\", \"shortcuts\", \"tileview\", \"videobackgroundblur\", \"download\", \"help\", \"mute-everyone\", \"e2ee\", \"security\" ] }"
+                 "value":"{ \"TOOLBAR_BUTTONS\": [ \"microphone\", \"camera\", \"closedcaptions\", \"desktop\", \"fullscreen\", \"fodeviceselection\", \"hangup\", \"profile\", \"chat\", \"settings\", \"raisehand\", \"videoquality\", \"filmstrip\", \"feedback\", \"stats\", \"shortcuts\", \"tileview\", \"videobackgroundblur\", \"download\", \"help\", \"mute-everyone\", \"mute-video-everyone\", \"participants-pane\", \"e2ee\", \"security\" ] }"
                 }, 
                 {
                  "name":"jitsiRoom",
