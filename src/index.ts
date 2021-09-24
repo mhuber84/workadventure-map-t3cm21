@@ -77,6 +77,36 @@ WA.room.onEnterZone('info', () => {
 })
 WA.room.onLeaveZone('info', closePopUp)
 
+WA.room.onEnterZone('docstypo3', () => {
+    currentPopup = WA.openPopup(
+        'libraryPopup',
+        'TYPO3 documentation',
+        [
+          {
+              label: 'Show',
+              className: 'primary',
+              callback: () => WA.nav.openTab('https://docs.typo3.org'),
+          }
+      ]
+    )
+})
+WA.room.onLeaveZone('docstypo3', closePopUp)
+
+WA.room.onEnterZone('docsmozilla', () => {
+    currentPopup = WA.openPopup(
+        'libraryPopup',
+        'MDN Web Docs',
+        [
+          {
+              label: 'Show',
+              className: 'primary',
+              callback: () => WA.nav.openTab('https://developer.mozilla.org/de/docs/Web'),
+          }
+      ]
+    )
+})
+WA.room.onLeaveZone('docsmozilla', closePopUp)
+
 
 function closePopUp(){
     if (currentPopup !== undefined) {
