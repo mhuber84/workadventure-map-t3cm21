@@ -452,7 +452,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.1001spiele.de\/arcade\/doodle-jump"
+                 "value":"https:\/\/iogames.space\/smash-karts-io-game"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -470,7 +470,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.1001spiele.de\/arcade\/sparkanoid"
+                 "value":"https:\/\/powerline.io\/"
                 }],
          "type":"tilelayer",
          "visible":true,
